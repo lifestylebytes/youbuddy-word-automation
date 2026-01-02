@@ -13,7 +13,6 @@ const NOTION_SECRET = process.env.NOTION_SECRET;
 const TARGET_DB_ID = process.env.TARGET_DB_ID;
 const NOTION_VERSION = "2022-06-28";
 
-// 🇰🇷 KST 기준 오늘 날짜
 function todayKST() {
   const now = new Date();
   const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
@@ -48,27 +47,12 @@ async function createPage(word) {
         },
         "선택": {
           select: { name: "공개" }
-        },
-        "목표일": {
-          date: { start: word.targetDate }
         }
-      },
-      children: [
-        {
-          object: "block",
-          type: "paragraph",
-          paragraph: {
-            rich_text: [{ text: { content: word.example } }]
-          }
-        }
-      ]
+      }
     })
   });
 
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`Notion 업로드 실패: ${text}`);
-  }
+  return res.json(); // ⬅ 노션 페이지 결과 반환
 }
 
 async function run() {
@@ -76,46 +60,40 @@ async function run() {
   const dir = path.join(__dirname, "words");
   const files = fs.readdirSync(dir).filter(f => f.endsWith(".json"));
 
-  const uploadedWords = [];
-
   for (const file of files) {
     const filePath = path.join(dir, file);
     const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
-    // ✅ 업로드 조건
     if (data.published) continue;
     if (data.addedDate !== today) continue;
 
-    try {
-      console.log(`🚀 업로드: ${data.word}`);
-      await createPage(data);
+    console.log(`🚀 업로드: ${data.word}`);
+    const page = await createPage(data);
 
-      data.published = true;
-      fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-      uploadedWords.push(data.word);
-    } catch (err) {
-      console.error(`❌ ${data.word} 업로드 실패`, err.message);
-    }
-  }
+    // ✅ 메일 내용 생성
+    const subject = `📘 오늘의 유버디 영어 업로드 완료 (${today})`;
 
-  // 📧 메일 발송
-  if (uploadedWords.length > 0) {
-    await sendMail(
-      "📘 오늘의 유버디 단어 업로드 완료",
-      `
-        <h3>오늘 업로드된 단어</h3>
-        <ul>
-          ${uploadedWords.map(w => `<li>${w}</li>`).join("")}
-        </ul>
-        <p>노션에서 확인해보세요 ✨</p>
-      `
-    );
-  } else {
-    console.log("ℹ️ 오늘 업로드할 단어 없음");
+    const html = `
+      <h2>오늘의 단어 업로드 완료 🎉</h2>
+      <p><strong>어휘:</strong> ${data.word}</p>
+      <p><strong>예문:</strong><br/>${data.example}</p>
+      <p><strong>해석:</strong><br/>${data.example_translation}</p>
+      <p>
+        👉 <a href="${page.url}" target="_blank">
+        노션에서 바로 보기
+        </a>
+      </p>
+      <hr/>
+      <p style="color:#888;font-size:12px">
+        Youbuddy 자동화 봇 · ${today}
+      </p>
+    `;
+
+    await sendMail({ subject, html });
+
+    data.published = true;
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
   }
 }
 
-run().catch(err => {
-  console.error("🔥 스크립트 전체 실패", err);
-  process.exit(1);
-});
+run();
