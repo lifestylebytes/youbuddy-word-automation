@@ -12,6 +12,20 @@ const SOURCE_DB_ID = process.env.SOURCE_DB_ID;
 const NOTION_SECRET = process.env.NOTION_SECRET;
 const NOTION_VERSION = "2022-06-28";
 
+async function fetchBlocks(pageId) {
+  const res = await fetch(
+    `https://api.notion.com/v1/blocks/${pageId}/children`,
+    {
+      headers: {
+        Authorization: `Bearer ${NOTION_SECRET}`,
+        "Notion-Version": NOTION_VERSION
+      }
+    }
+  );
+  const data = await res.json();
+  return data.results || [];
+}
+
 async function run() {
   const res = await fetch(
     `https://api.notion.com/v1/databases/${SOURCE_DB_ID}/query`,
@@ -23,21 +37,14 @@ async function run() {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        sorts: [
-          {
-            property: "추가일",
-            direction: "ascending"
-          }
-        ]
+        sorts: [{ property: "추가일", direction: "ascending" }]
       })
     }
   );
 
   const data = await res.json();
-
   const dir = path.join(__dirname, "words");
 
-  // ✅ words 폴더 초기화 (덮어쓰기 보장)
   if (!fs.existsSync(dir)) fs.mkdirSync(dir);
   fs.readdirSync(dir)
     .filter(f => f.endsWith(".json"))
@@ -45,35 +52,22 @@ async function run() {
 
   let index = 1;
 
-  data.results.forEach(page => {
+  for (const page of data.results) {
     const p = page.properties;
 
-    // ✅ 추가일 없으면 export 안 함
-    const addedDate = p["추가일"]?.date?.start;
-    if (!addedDate) return;
-
-    // ✅ 파일명 기준: 어휘
     const vocab =
-      p["어휘"]?.rich_text
-        ?.map(t => t.plain_text.trim())
-        .find(Boolean) || "";
+      p["어휘"]?.rich_text?.map(t => t.plain_text).join("").trim() || "";
+    if (!vocab) continue;
 
-    if (!vocab) return;
+    const addedDate = p["추가일"]?.date?.start;
+    if (!addedDate) continue;
 
-    // ✅ 페이지 title용: 뜻
-    const titleText =
-      p["뜻 (클릭하면 설명)"]?.title
-        ?.map(t => t.plain_text.trim())
-        .find(Boolean) || "";
+    const blocks = await fetchBlocks(page.id);
 
     const json = {
       word: vocab,
-      title: titleText,
-      example: p["예문"]?.rich_text?.[0]?.plain_text || "",
-      example_translation:
-        p["예문 해석"]?.rich_text?.[0]?.plain_text || "",
-      targetDate: p["목표일"]?.date?.start || "",
       addedDate,
+      blocks,
       published: false
     };
 
@@ -89,9 +83,9 @@ async function run() {
     );
 
     index++;
-  });
+  }
 
-  console.log("✅ SOURCE DB → words 라이브러리 export (추가일 기준 정렬 완료)");
+  console.log("✅ Notion → words export 완료 (본문 포함)");
 }
 
 run();
