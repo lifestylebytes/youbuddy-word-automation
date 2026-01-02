@@ -1,0 +1,28 @@
+name: Daily Notion Upload
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # UTC 15:00 = KST 00:00
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run upload script
+        env:
+          NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
+          TARGET_DB_ID: ${{ secrets.TARGET_DB_ID }}
+        run: node upload-today.js
