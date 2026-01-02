@@ -1,0 +1,14 @@
+{
+  "name": "words-autoupload",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "export": "node export-from-notion.js",
+    "upload": "node index.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "dotenv": "^16.4.0",
+    "node-fetch": "^3.3.2"
+  }
+}
