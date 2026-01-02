@@ -1,24 +1,3 @@
-// upload-today.js
-require("dotenv").config();
-const fs = require("fs");
-const path = require("path");
-const sendMail = require("./lib/sendMail");
-
-const fetch =
-  typeof global.fetch === "function"
-    ? global.fetch
-    : (...args) => import("node-fetch").then(({ default: f }) => f(...args));
-
-const NOTION_SECRET = process.env.NOTION_SECRET;
-const TARGET_DB_ID = process.env.TARGET_DB_ID;
-const NOTION_VERSION = "2022-06-28";
-
-function todayKST() {
-  const now = new Date();
-  const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
-  return kst.toISOString().slice(0, 10);
-}
-
 async function createPage(word) {
   const res = await fetch("https://api.notion.com/v1/pages", {
     method: "POST",
@@ -52,48 +31,12 @@ async function createPage(word) {
     })
   });
 
-  return res.json(); // ⬅ 노션 페이지 결과 반환
-}
+  const result = await res.json();
 
-async function run() {
-  const today = todayKST();
-  const dir = path.join(__dirname, "words");
-  const files = fs.readdirSync(dir).filter(f => f.endsWith(".json"));
-
-  for (const file of files) {
-    const filePath = path.join(dir, file);
-    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-
-    if (data.published) continue;
-    if (data.addedDate !== today) continue;
-
-    console.log(`🚀 업로드: ${data.word}`);
-    const page = await createPage(data);
-
-    // ✅ 메일 내용 생성
-    const subject = `📘 오늘의 유버디 영어 업로드 완료 (${today})`;
-
-    const html = `
-      <h2>오늘의 단어 업로드 완료 🎉</h2>
-      <p><strong>어휘:</strong> ${data.word}</p>
-      <p><strong>예문:</strong><br/>${data.example}</p>
-      <p><strong>해석:</strong><br/>${data.example_translation}</p>
-      <p>
-        👉 <a href="${page.url}" target="_blank">
-        노션에서 바로 보기
-        </a>
-      </p>
-      <hr/>
-      <p style="color:#888;font-size:12px">
-        Youbuddy 자동화 봇 · ${today}
-      </p>
-    `;
-
-    await sendMail({ subject, html });
-
-    data.published = true;
-    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+  if (!res.ok) {
+    console.error("❌ Notion API error:", result);
+    throw new Error("Notion page creation failed");
   }
-}
 
-run();
+  console.log("✅ Notion page created:", result.id);
+}
