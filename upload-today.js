@@ -1,3 +1,6 @@
+console.log("🔑 NOTION_SECRET length:", process.env.NOTION_SECRET?.length);
+console.log("🗄 TARGET_DB_ID:", process.env.TARGET_DB_ID);
+
 // upload-today.js
 require("dotenv").config();
 const fs = require("fs");
