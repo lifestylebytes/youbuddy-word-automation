@@ -1,0 +1,881 @@
+{
+  "word": "helter-skelter",
+  "title": "2. 우왕좌왕 / 뒤죽박죽 / 정신없음",
+  "example": "We’re all on the same project right now, so things are a little ______ ______.",
+  "example_translation": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+  "targetDate": "2026-01-31",
+  "addedDate": "2026-01-04",
+  "body": "## helter-skelter\n\nWe’re all on the same project right now, so things are a little ______ ______.\n\n지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.\n\n## 💡 이 표현이 쓰이는 상황은?\n\n  - 혼란스럽고 무질서한 상황을 묘사할 때: 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용\n\n  - 급하게 서두르는 모습을 표현할 때: 사람들이 우왕좌왕하며 바쁘게 움직이는 상황\n\n  - 계획 없이 무작위로 진행되는 일을 설명할 때: 체계나 순서 없이 일이 진행될 때\n\n## 🎯 외우기 쉬운 팁\n\n\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.\n\n## 📚 유사 표현\n\n  - chaotic - 혼란스러운\n\n  - in disarray - 무질서한\n\n  - all over the place - 정신없는, 정리되지 않은\n\n  - topsy-turvy - 뒤죽박죽인\n\n  - in a frenzy - 광분하여, 난리가 난",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-80c7-946f-fd8b1219ad1f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8094-8ae6-fea037c071f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "helter-skelter",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "helter-skelter",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8077-ab2f-ce141f51a53b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:40:00.000Z",
+      "last_edited_time": "2026-01-02T16:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "We’re all on the same project right now, so things are a little ______ ______.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "We’re all on the same project right now, so things are a little ______ ______.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-80fd-a0f3-cf6fd7b3f51f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-80d4-92e2-c85326121794",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8021-b825-c37f6d1eab11",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "💡 이 표현이 쓰이는 상황은?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "💡 이 표현이 쓰이는 상황은?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8060-9404-ebc942c1ef78",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "혼란스럽고 무질서한 상황을 묘사할 때:",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "혼란스럽고 무질서한 상황을 묘사할 때:",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-807c-b615-cb91832fb7bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "급하게 서두르는 모습을 표현할 때:",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "급하게 서두르는 모습을 표현할 때:",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8078-b82b-dba50fdb4353",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 체계나 순서 없이 일이 진행될 때",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 체계나 순서 없이 일이 진행될 때",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-80a8-ac3d-ce30aa3ac7c8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🎯 외우기 쉬운 팁",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🎯 외우기 쉬운 팁",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8025-9f93-de6625b8ae66",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-801d-a85a-d2a9e472369a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📚 유사 표현",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📚 유사 표현",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-80d6-bcf9-cd098ce10bb0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "chaotic",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "chaotic",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " - 혼란스러운",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " - 혼란스러운",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-80c4-a7d4-ceda31d3a0c5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in disarray",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in disarray",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " - 무질서한",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " - 무질서한",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8037-96d6-eae1315beaa8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "all over the place",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "all over the place",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " - 정신없는, 정리되지 않은",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " - 정신없는, 정리되지 않은",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-8050-a0c1-f21b2496f8bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "topsy-turvy",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "topsy-turvy",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " - 뒤죽박죽인",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " - 뒤죽박죽인",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2dc1fc05-de1e-808f-a059-ff34a9731182",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2dc1fc05-de1e-8048-8f28-cf60d23f38a1"
+      },
+      "created_time": "2026-01-02T16:32:00.000Z",
+      "last_edited_time": "2026-01-02T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "in a frenzy",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "in a frenzy",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " - 광분하여, 난리가 난",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " - 광분하여, 난리가 난",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ],
+  "published": false
+}
