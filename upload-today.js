@@ -2,6 +2,7 @@
 require("dotenv").config();
 const fs = require("fs");
 const path = require("path");
+const sendMail = require("./lib/sendMail");
 
 const fetch =
   typeof global.fetch === "function"
@@ -75,8 +76,13 @@ async function createPage(word) {
 
   if (!res.ok) {
     const text = await res.text();
-    throw new Error(text);
+    throw new Error(`Notion page create failed: ${text}`);
   }
+    // 🔹 생성된 페이지 정보
+  const result = await res.json();
+
+  // ✅ 이 URL을 메일 / 로그 / 디버깅에 사용
+  return result.url;
 }
 
 /**
@@ -97,10 +103,30 @@ async function run() {
     if (data.addedDate !== today) continue;
 
     console.log(`🚀 업로드: ${data.word}`);
-    await createPage(data);
 
+    // 1️⃣ 페이지 생성
+    const pageUrl = await createPage(data);
+
+    // 2️⃣ 메일 전송
+    await sendMail({
+      subject: `📘 오늘의 단어: ${data.word}`,
+      text: `
+오늘의 단어가 노션에 추가되었습니다.
+
+단어: ${data.word}
+뜻: ${data.title || ""}
+
+👉 노션에서 바로 보기
+${pageUrl}
+
+— YouBuddy 자동 단어 시스템
+      `.trim()
+    });
+
+    // 3️⃣ published 처리
     data.published = true;
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+
     console.log(`✅ 완료: ${data.word}`);
   }
 }
