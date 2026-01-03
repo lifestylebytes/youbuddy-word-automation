@@ -2,25 +2,37 @@ name: Daily Notion Upload
 
 on:
   schedule:
-    - cron: "0 15 * * *" # 매일 00:00 KST
+    - cron: "0 15 * * *" # 매일 00:00 KST (UTC 기준)
   workflow_dispatch:
 
 jobs:
   upload:
     runs-on: ubuntu-latest
+
     steps:
+      # 1️⃣ 레포 체크아웃
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      # 2️⃣ Node 설정
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      # 3️⃣ 의존성 설치
       - name: Install dependencies
         run: npm install
 
-      - name: Run upload script
+      # 4️⃣ 🔥 Notion → words export (핵심 추가)
+      - name: Export from Notion
+        run: node export-from-notion.js
+        env:
+          NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
+          SOURCE_DB_ID: ${{ secrets.SOURCE_DB_ID }}
+
+      # 5️⃣ 🔥 오늘 날짜 기준 업로드
+      - name: Upload today word
         run: node upload-today.js
         env:
           NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
