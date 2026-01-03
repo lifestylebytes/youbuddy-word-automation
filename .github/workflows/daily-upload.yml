@@ -37,3 +37,14 @@ jobs:
         env:
           NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
           TARGET_DB_ID: ${{ secrets.TARGET_DB_ID }}
+
+      - name: Upload today word
+        run: node upload-today.js
+        env:
+          NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
+          TARGET_DB_ID: ${{ secrets.TARGET_DB_ID }}
+
+          # 🔔 메일 관련 (이게 핵심)
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
