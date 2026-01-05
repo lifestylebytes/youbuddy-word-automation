@@ -109,19 +109,28 @@ async function run() {
 
     // 2️⃣ 메일 전송
     await sendMail({
-      subject: `📘 오늘의 단어: ${data.word}`,
-      text: `
-오늘의 단어가 노션에 추가되었습니다.
+  subject: `📘 오늘의 단어: ${data.word}`,
+  text: `
+안녕하세요! 😊
+오늘의 단어가 추가되었습니다 👏
 
-단어: ${data.word}
-뜻: ${data.title || ""}
+Day ${data.day || ""}
+${data.word}
+${data.example || ""}
 
 👉 노션에서 바로 보기
 ${pageUrl}
 
-— YouBuddy 자동 단어 시스템
-      `.trim()
-    });
+🔗 인증 현황 보기
+https://www.notion.so/2db1fc05de1e8048825dc700e2d6d457?source=copy_link
+
+
+
+
+— YouBuddy 자동 단어 시스템 📘
+  `.trim()
+});
+
 
     // 3️⃣ published 처리
     data.published = true;
