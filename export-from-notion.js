@@ -174,6 +174,9 @@ async function run() {
     );
   }
 
+  const exportDate = process.env.EXPORT_DATE || todayKST();
+  console.log("📅 export 기준 날짜:", exportDate);
+
   const res = await fetch(
     `https://api.notion.com/v1/databases/${SOURCE_DB_ID}/query`,
     {
@@ -184,6 +187,10 @@ async function run() {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
+        filter: {
+          property: "추가일",
+          date: { equals: exportDate }
+        },
         sorts: [{ property: "추가일", direction: "ascending" }]
       })
     }
@@ -196,8 +203,6 @@ async function run() {
   fs.readdirSync(dir).forEach(f => fs.unlinkSync(path.join(dir, f)));
 
   let index = 1;
-
-  console.log("📅 export 기준 날짜:", todayKST());
 
   for (const page of data.results) {
     const p = page.properties;
