@@ -158,6 +158,22 @@ function blocksToMarkdown(blocks = [], indent = 0) {
 }
 
 async function run() {
+  if (!SOURCE_DB_ID) {
+    console.error("❌ SOURCE_DB_ID 없음");
+    process.exit(1);
+  }
+  if (!/^[a-f0-9]{32}$/i.test(SOURCE_DB_ID)) {
+    console.error(
+      "❌ SOURCE_DB_ID 형식 이상(32자리 hex 필요):",
+      SOURCE_DB_ID
+    );
+  } else {
+    console.log(
+      "ℹ️ SOURCE_DB_ID:",
+      `${SOURCE_DB_ID.slice(0, 6)}...${SOURCE_DB_ID.slice(-4)}`
+    );
+  }
+
   const res = await fetch(
     `https://api.notion.com/v1/databases/${SOURCE_DB_ID}/query`,
     {
