@@ -11,7 +11,7 @@ const fetch =
 
 const NOTION_SECRET = process.env.NOTION_SECRET;
 const TARGET_DB_ID = process.env.TARGET_DB_ID;
-const NOTION_VERSION = "2022-06-28";
+const NOTION_VERSION = "2025-09-03";
 
 /**
  * 🇰🇷 KST 기준 오늘 날짜
