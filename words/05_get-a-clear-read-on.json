@@ -1,47 +1,21 @@
 {
-  "word": "helter-skelter",
-  "title": "2. 우왕좌왕 / 뒤죽박죽 / 정신없음",
-  "example": "We’re all on the same project right now, so things are a little ______ ______.",
-  "example_translation": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+  "word": "get a clear read on",
+  "title": "5. 상황을 명확히 파악하다",
+  "example": "I want to ___ _ _____ ____ the timeline before committing.",
+  "example_translation": "확정하기 전에 일정 상황을 명확히 파악하고 싶어요.",
   "targetDate": "2026-01-31",
-  "addedDate": "2026-01-03",
-  "body": "## helter-skelter\n\nWe’re all on the same project right now, so things are a little helter-skelter\n\n지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.\n\n## 💡 이 표현이 쓰이는 상황은?\n\n  - 혼란스럽고 무질서한 상황을 묘사할 때: 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용\n\n      - \"The office was helter-skelter after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)\n\n  - 급하게 서두르는 모습을 표현할 때: 사람들이 우왕좌왕하며 바쁘게 움직이는 상황\n\n      - \"Everyone ran helter-skelter when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)\n\n  - 계획 없이 무작위로 진행되는 일을 설명할 때: 체계나 순서 없이 일이 진행될 때\n\n      - \"The meeting went helter-skelter without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)\n\n## 🎯 외우기 쉬운 팁\n\n\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.\n\n## 📚 유사 표현\n\n  - chaotic - 혼란스러운\n\n  - in disarray - 무질서한\n\n  - all over the place - 정신없는, 정리되지 않은\n\n  - topsy-turvy - 뒤죽박죽인\n\n  - in a frenzy - 광분하여, 난리가 난",
+  "addedDate": "2026-01-06",
+  "body": "## get a clear read on\n\nI want to get a clear read on the timeline before committing.\n\n확정하기 전에 일정 상황을 명확히 파악하고 싶어요.\n\n### 💡 이 표현이 쓰이는 상황은?\n\n  - 상황을 정확히 파악하고 싶을 때: 불확실한 상황을 명확하게 이해하고 판단하고 싶다는 의미로 사용\n\n      - \"Let me get a clear read on the team's capacity first.\" (먼저 팀의 여력을 명확히 파악해볼게요.)\n\n  - 의사결정 전에 정보를 수집할 때: 결정을 내리기 전에 상황을 제대로 이해하고 싶을 때\n\n      - \"We need to get a clear read on customer feedback before launching.\" (출시 전에 고객 피드백을 명확히 파악해야 해요.)\n\n  - 누군가의 의도나 생각을 이해하고 싶을 때: 상대방의 진짜 의도나 입장을 정확히 알고 싶을 때\n\n      - \"I can't get a clear read on how the leadership feels about this.\" (리더십이 이에 대해 어떻게 생각하는지 명확히 파악이 안 돼요.)\n\n### 🎯 외우기 쉬운 팁\n\n\"read\"는 책을 읽듯이 상황을 \"읽어낸다\"는 뜻입니다. 흐릿한 글씨가 아닌 선명한(clear) 글씨로 상황을 읽어낸다고 상상해보세요. 상황을 정확하게 파악하고 판단한다는 의미로 쉽게 기억할 수 있어요.\n\n### 📚 유사 표현\n\n  - get a sense of - 감을 잡다, 파악하다\n\n  - gauge - 가늠하다, 측정하다\n\n  - assess - 평가하다\n\n  - understand clearly - 명확히 이해하다\n\n  - figure out - 알아내다",
   "blocks": [
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8041-a4c6-dbd18604d075",
+      "id": "f77659cb-acd9-4c10-90a1-71e0f54cfc5e",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "2dd1fc05-de1e-80e8-85ed-c070363222f5",
-      "parent": {
-        "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
-      },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:09:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -59,7 +33,7 @@
           {
             "type": "text",
             "text": {
-              "content": "helter-skelter",
+              "content": "get a clear read on",
               "link": null
             },
             "annotations": {
@@ -68,9 +42,9 @@
               "strikethrough": false,
               "underline": false,
               "code": false,
-              "color": "default"
+              "color": "red"
             },
-            "plain_text": "helter-skelter",
+            "plain_text": "get a clear read on",
             "href": null
           }
         ],
@@ -80,13 +54,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80cd-9eed-ece52907ecc2",
+      "id": "02f63e27-3b98-46dd-8a03-9f5d9cb673d1",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T14:34:00.000Z",
-      "last_edited_time": "2026-01-03T14:34:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -104,7 +78,7 @@
           {
             "type": "text",
             "text": {
-              "content": "We’re all on the same project right now, so things are a little helter-skelter",
+              "content": "I want to ",
               "link": null
             },
             "annotations": {
@@ -115,7 +89,41 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "We’re all on the same project right now, so things are a little helter-skelter",
+            "plain_text": "I want to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "get a clear read on",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "get a clear read on",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " the timeline before committing.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " the timeline before committing.",
             "href": null
           }
         ],
@@ -124,13 +132,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80a5-a894-ff498ce30ebf",
+      "id": "6bf3020a-d134-454e-8dab-5351d6bcd882",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -148,7 +156,7 @@
           {
             "type": "text",
             "text": {
-              "content": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+              "content": "확정하기 전에 일정 상황을 명확히 파악하고 싶어요.",
               "link": null
             },
             "annotations": {
@@ -159,7 +167,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+            "plain_text": "확정하기 전에 일정 상황을 명확히 파악하고 싶어요.",
             "href": null
           }
         ],
@@ -168,13 +176,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-809c-94a1-dd7b3f1c953f",
+      "id": "434b8b0b-0e29-4002-a90e-7646842d7df3",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -194,13 +202,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-803c-95f0-f334947f11f0",
+      "id": "06314a25-f28b-4c09-9a4a-b945bdef62b9",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -212,8 +220,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -239,13 +247,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-801c-a969-c1f807c54f69",
+      "id": "4e363756-6ea3-4cfe-aa84-fa64f84b3889",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -263,7 +271,7 @@
           {
             "type": "text",
             "text": {
-              "content": "혼란스럽고 무질서한 상황을 묘사할 때:",
+              "content": "상황을 정확히 파악하고 싶을 때:",
               "link": null
             },
             "annotations": {
@@ -274,13 +282,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "혼란스럽고 무질서한 상황을 묘사할 때:",
+            "plain_text": "상황을 정확히 파악하고 싶을 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+              "content": " 불확실한 상황을 명확하게 이해하고 판단하고 싶다는 의미로 사용",
               "link": null
             },
             "annotations": {
@@ -291,7 +299,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+            "plain_text": " 불확실한 상황을 명확하게 이해하고 판단하고 싶다는 의미로 사용",
             "href": null
           }
         ],
@@ -300,13 +308,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8030-ac11-fc39723b4804",
+          "id": "88a13621-d978-42f0-ae6d-c12eb5719e4b",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-801c-a969-c1f807c54f69"
+            "block_id": "4e363756-6ea3-4cfe-aa84-fa64f84b3889"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:04:00.000Z",
+          "last_edited_time": "2026-01-03T11:05:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -324,7 +332,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"The office was ",
+                  "content": "\"Let me ",
                   "link": null
                 },
                 "annotations": {
@@ -335,13 +343,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"The office was ",
+                "plain_text": "\"Let me ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter",
+                  "content": "get a clear read on",
                   "link": null
                 },
                 "annotations": {
@@ -352,13 +360,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter",
+                "plain_text": "get a clear read on",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": " after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)",
+                  "content": " the team's capacity first.\" (먼저 팀의 여력을 명확히 파악해볼게요.)",
                   "link": null
                 },
                 "annotations": {
@@ -369,7 +377,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": " after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)",
+                "plain_text": " the team's capacity first.\" (먼저 팀의 여력을 명확히 파악해볼게요.)",
                 "href": null
               }
             ],
@@ -380,13 +388,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8090-ae47-ebb56649bb9b",
+      "id": "87d48e82-207c-4c8c-8fa2-527e3fb26f58",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -404,7 +412,7 @@
           {
             "type": "text",
             "text": {
-              "content": "급하게 서두르는 모습을 표현할 때:",
+              "content": "의사결정 전에 정보를 수집할 때:",
               "link": null
             },
             "annotations": {
@@ -415,13 +423,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "급하게 서두르는 모습을 표현할 때:",
+            "plain_text": "의사결정 전에 정보를 수집할 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+              "content": " 결정을 내리기 전에 상황을 제대로 이해하고 싶을 때",
               "link": null
             },
             "annotations": {
@@ -432,7 +440,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+            "plain_text": " 결정을 내리기 전에 상황을 제대로 이해하고 싶을 때",
             "href": null
           }
         ],
@@ -441,13 +449,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8079-9b01-f28954eb86da",
+          "id": "c1992aff-5e7e-48b1-b079-df66faf07d66",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-8090-ae47-ebb56649bb9b"
+            "block_id": "87d48e82-207c-4c8c-8fa2-527e3fb26f58"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:04:00.000Z",
+          "last_edited_time": "2026-01-03T11:05:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -465,7 +473,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"Everyone ran ",
+                  "content": "\"We need to ",
                   "link": null
                 },
                 "annotations": {
@@ -476,13 +484,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"Everyone ran ",
+                "plain_text": "\"We need to ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter ",
+                  "content": "get a clear read on",
                   "link": null
                 },
                 "annotations": {
@@ -493,13 +501,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter ",
+                "plain_text": "get a clear read on",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)",
+                  "content": " customer feedback before launching.\" (출시 전에 고객 피드백을 명확히 파악해야 해요.)",
                   "link": null
                 },
                 "annotations": {
@@ -510,7 +518,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)",
+                "plain_text": " customer feedback before launching.\" (출시 전에 고객 피드백을 명확히 파악해야 해요.)",
                 "href": null
               }
             ],
@@ -521,13 +529,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80d2-97c4-e434125a1df6",
+      "id": "3b42855b-0cc3-4b13-9a7b-44a6267eb385",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -545,7 +553,7 @@
           {
             "type": "text",
             "text": {
-              "content": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+              "content": "누군가의 의도나 생각을 이해하고 싶을 때:",
               "link": null
             },
             "annotations": {
@@ -556,13 +564,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+            "plain_text": "누군가의 의도나 생각을 이해하고 싶을 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 체계나 순서 없이 일이 진행될 때",
+              "content": " 상대방의 진짜 의도나 입장을 정확히 알고 싶을 때",
               "link": null
             },
             "annotations": {
@@ -573,7 +581,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 체계나 순서 없이 일이 진행될 때",
+            "plain_text": " 상대방의 진짜 의도나 입장을 정확히 알고 싶을 때",
             "href": null
           }
         ],
@@ -582,13 +590,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8059-9dd6-f28c5bc54760",
+          "id": "fe2bd384-94b1-4d26-a533-97ac85b2cab0",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-80d2-97c4-e434125a1df6"
+            "block_id": "3b42855b-0cc3-4b13-9a7b-44a6267eb385"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:04:00.000Z",
+          "last_edited_time": "2026-01-03T11:05:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -606,7 +614,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"The meeting went ",
+                  "content": "\"I can't ",
                   "link": null
                 },
                 "annotations": {
@@ -617,13 +625,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"The meeting went ",
+                "plain_text": "\"I can't ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter",
+                  "content": "get a clear read on",
                   "link": null
                 },
                 "annotations": {
@@ -634,13 +642,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter",
+                "plain_text": "get a clear read on",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": " without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)",
+                  "content": " how the leadership feels about this.\" (리더십이 이에 대해 어떻게 생각하는지 명확히 파악이 안 돼요.)",
                   "link": null
                 },
                 "annotations": {
@@ -651,7 +659,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": " without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)",
+                "plain_text": " how the leadership feels about this.\" (리더십이 이에 대해 어떻게 생각하는지 명확히 파악이 안 돼요.)",
                 "href": null
               }
             ],
@@ -662,13 +670,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80e5-82f6-e85218fd850e",
+      "id": "f1f1b473-48a3-43ca-9915-b5bb43d4f273",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -680,8 +688,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -707,13 +715,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8082-8181-ec8e520124b0",
+      "id": "f6faa546-4a6c-4555-af71-9c51c20993c6",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-05T15:20:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -731,7 +739,7 @@
           {
             "type": "text",
             "text": {
-              "content": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+              "content": "\"read\"는 책을 읽듯이 상황을 \"읽어낸다\"는 뜻",
               "link": null
             },
             "annotations": {
@@ -742,13 +750,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+            "plain_text": "\"read\"는 책을 읽듯이 상황을 \"읽어낸다\"는 뜻",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+              "content": "입니다. 흐릿한 글씨가 아닌 ",
               "link": null
             },
             "annotations": {
@@ -759,7 +767,41 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+            "plain_text": "입니다. 흐릿한 글씨가 아닌 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "선명한(clear)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "pink"
+            },
+            "plain_text": "선명한(clear)",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 글씨로 상황을 읽어낸다고 상상해보세요. 상황을 정확하게 파악하고 판단한다는 의미로 쉽게 기억할 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 글씨로 상황을 읽어낸다고 상상해보세요. 상황을 정확하게 파악하고 판단한다는 의미로 쉽게 기억할 수 있어요.",
             "href": null
           }
         ],
@@ -768,13 +810,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80eb-95a6-e8d44ed79a1e",
+      "id": "bc8a5e29-80ee-4301-a744-8ee0be09db9e",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -786,8 +828,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -813,13 +855,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80c5-9414-efab2f7f61c4",
+      "id": "a7cc40ec-cc9b-4703-a97b-d469439076af",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -837,7 +879,7 @@
           {
             "type": "text",
             "text": {
-              "content": "chaotic",
+              "content": "get a sense of",
               "link": null
             },
             "annotations": {
@@ -848,13 +890,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "chaotic",
+            "plain_text": "get a sense of",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 혼란스러운",
+              "content": " - 감을 잡다, 파악하다",
               "link": null
             },
             "annotations": {
@@ -865,7 +907,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 혼란스러운",
+            "plain_text": " - 감을 잡다, 파악하다",
             "href": null
           }
         ],
@@ -874,13 +916,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8063-b928-da9600c7775b",
+      "id": "da6eb716-f5ec-4230-a104-f7af24fcc257",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -898,7 +940,7 @@
           {
             "type": "text",
             "text": {
-              "content": "in disarray",
+              "content": "gauge",
               "link": null
             },
             "annotations": {
@@ -909,13 +951,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "in disarray",
+            "plain_text": "gauge",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 무질서한",
+              "content": " - 가늠하다, 측정하다",
               "link": null
             },
             "annotations": {
@@ -926,7 +968,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 무질서한",
+            "plain_text": " - 가늠하다, 측정하다",
             "href": null
           }
         ],
@@ -935,13 +977,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8008-a98f-e6762f12819b",
+      "id": "46e8ab4f-f3a7-46c2-ab30-52aa76e592a6",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -959,7 +1001,7 @@
           {
             "type": "text",
             "text": {
-              "content": "all over the place",
+              "content": "assess",
               "link": null
             },
             "annotations": {
@@ -970,13 +1012,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "all over the place",
+            "plain_text": "assess",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 정신없는, 정리되지 않은",
+              "content": " - 평가하다",
               "link": null
             },
             "annotations": {
@@ -987,7 +1029,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 정신없는, 정리되지 않은",
+            "plain_text": " - 평가하다",
             "href": null
           }
         ],
@@ -996,13 +1038,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80a5-a912-e2e43496d154",
+      "id": "694eaffa-4bea-4c15-899b-45ede5df9469",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -1020,7 +1062,7 @@
           {
             "type": "text",
             "text": {
-              "content": "topsy-turvy",
+              "content": "understand clearly",
               "link": null
             },
             "annotations": {
@@ -1031,13 +1073,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "topsy-turvy",
+            "plain_text": "understand clearly",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 뒤죽박죽인",
+              "content": " - 명확히 이해하다",
               "link": null
             },
             "annotations": {
@@ -1048,7 +1090,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 뒤죽박죽인",
+            "plain_text": " - 명확히 이해하다",
             "href": null
           }
         ],
@@ -1057,13 +1099,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-805a-a93b-fc2333fd829e",
+      "id": "2c240659-de03-4c60-8146-099287b58713",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-a211-e1b38a663e18"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:04:00.000Z",
+      "last_edited_time": "2026-01-03T11:05:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -1081,7 +1123,7 @@
           {
             "type": "text",
             "text": {
-              "content": "in a frenzy",
+              "content": "figure out",
               "link": null
             },
             "annotations": {
@@ -1092,13 +1134,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "in a frenzy",
+            "plain_text": "figure out",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 광분하여, 난리가 난",
+              "content": " - 알아내다",
               "link": null
             },
             "annotations": {
@@ -1109,7 +1151,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 광분하여, 난리가 난",
+            "plain_text": " - 알아내다",
             "href": null
           }
         ],

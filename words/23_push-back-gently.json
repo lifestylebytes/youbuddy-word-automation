@@ -1,47 +1,21 @@
 {
-  "word": "helter-skelter",
-  "title": "2. 우왕좌왕 / 뒤죽박죽 / 정신없음",
-  "example": "We’re all on the same project right now, so things are a little ______ ______.",
-  "example_translation": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+  "word": "push back gently",
+  "title": "23. 조심스럽게 반대 의견을 내다",
+  "example": "I’d like to ____ ____ ______ on that assumption.",
+  "example_translation": "강하게는 아니지만 반대는 해야 할 것 같아요.",
   "targetDate": "2026-01-31",
-  "addedDate": "2026-01-03",
-  "body": "## helter-skelter\n\nWe’re all on the same project right now, so things are a little helter-skelter\n\n지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.\n\n## 💡 이 표현이 쓰이는 상황은?\n\n  - 혼란스럽고 무질서한 상황을 묘사할 때: 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용\n\n      - \"The office was helter-skelter after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)\n\n  - 급하게 서두르는 모습을 표현할 때: 사람들이 우왕좌왕하며 바쁘게 움직이는 상황\n\n      - \"Everyone ran helter-skelter when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)\n\n  - 계획 없이 무작위로 진행되는 일을 설명할 때: 체계나 순서 없이 일이 진행될 때\n\n      - \"The meeting went helter-skelter without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)\n\n## 🎯 외우기 쉬운 팁\n\n\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.\n\n## 📚 유사 표현\n\n  - chaotic - 혼란스러운\n\n  - in disarray - 무질서한\n\n  - all over the place - 정신없는, 정리되지 않은\n\n  - topsy-turvy - 뒤죽박죽인\n\n  - in a frenzy - 광분하여, 난리가 난",
+  "addedDate": "2026-01-24",
+  "body": "## push back gently\n\nI'd like to push back gently on that assumption.\n\n강하게는 아니지만 반대는 해야 할 것 같아요.\n\n### 💡 이 표현이 쓰이는 상황은?\n\n  - 정중하게 반대 의견을 낼 때: 상대방의 생각이나 제안에 동의하지 않지만 부드럽게 표현하고 싶을 때 사용\n\n      - \"I want to push back gently on that timeline.\" (그 일정에 대해 조심스럽게 이의를 제기하고 싶어요.)\n\n  - 건설적인 토론을 할 때: 대립이 아닌 협력적인 분위기에서 다른 관점을 제시할 때\n\n      - \"Can I push back gently? I think we're missing something.\" (조심스럽게 반대 의견을 내도 될까요? 뭔가 놓친 것 같아요.)\n\n  - 상급자나 고객에게 의견을 낼 때: 권위 있는 사람에게 존중하면서도 의견 차이를 표현할 때\n\n      - \"I'd like to push back gently on that approach.\" (그 접근법에 대해 조심스럽게 다른 의견을 내고 싶어요.)\n\n### 🎯 외우기 쉬운 팁\n\n\"push back\"은 밀어내다, 저항하다는 뜻이지만, \"gently\"(부드럽게)를 붙이면 공격적이지 않고 정중하게 반대하는 태도가 됩니다. 부드럽게 밀어내는 모습을 상상하면 쉽게 기억할 수 있어요.\n\n### 📚 유사 표현\n\n  - respectfully disagree - 정중히 동의하지 않다\n\n  - offer a different perspective - 다른 관점을 제시하다\n\n  - challenge politely - 정중하게 이의를 제기하다\n\n  - voice concerns diplomatically - 외교적으로 우려를 표명하다\n\n  - question tactfully - 요령 있게 의문을 제기하다",
   "blocks": [
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8041-a4c6-dbd18604d075",
+      "id": "0da14364-d05a-4bb8-bbda-f65aeb1876d1",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "2dd1fc05-de1e-80e8-85ed-c070363222f5",
-      "parent": {
-        "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
-      },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:09:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -59,7 +33,7 @@
           {
             "type": "text",
             "text": {
-              "content": "helter-skelter",
+              "content": "push back gently",
               "link": null
             },
             "annotations": {
@@ -68,9 +42,9 @@
               "strikethrough": false,
               "underline": false,
               "code": false,
-              "color": "default"
+              "color": "red"
             },
-            "plain_text": "helter-skelter",
+            "plain_text": "push back gently",
             "href": null
           }
         ],
@@ -80,13 +54,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80cd-9eed-ece52907ecc2",
+      "id": "7b57170c-cdbf-4182-b647-442cd85e8fb5",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T14:34:00.000Z",
-      "last_edited_time": "2026-01-03T14:34:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -104,7 +78,7 @@
           {
             "type": "text",
             "text": {
-              "content": "We’re all on the same project right now, so things are a little helter-skelter",
+              "content": "I'd like to ",
               "link": null
             },
             "annotations": {
@@ -115,7 +89,41 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "We’re all on the same project right now, so things are a little helter-skelter",
+            "plain_text": "I'd like to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "push back gently",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "push back gently",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " on that assumption.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " on that assumption.",
             "href": null
           }
         ],
@@ -124,13 +132,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80a5-a894-ff498ce30ebf",
+      "id": "3d2db17d-9003-44cc-8eb5-2f68e733f833",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -148,7 +156,7 @@
           {
             "type": "text",
             "text": {
-              "content": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+              "content": "강하게는 아니지만 반대는 해야 할 것 같아요.",
               "link": null
             },
             "annotations": {
@@ -159,7 +167,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+            "plain_text": "강하게는 아니지만 반대는 해야 할 것 같아요.",
             "href": null
           }
         ],
@@ -168,13 +176,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-809c-94a1-dd7b3f1c953f",
+      "id": "0ad2e4ed-08e2-415b-9c38-540f3254d410",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -194,13 +202,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-803c-95f0-f334947f11f0",
+      "id": "cbfde611-c6de-4fd5-b315-5bdfaa24a6ae",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -212,8 +220,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -239,13 +247,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-801c-a969-c1f807c54f69",
+      "id": "f5517f71-d660-4e81-af05-04a3b4334e44",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -263,7 +271,7 @@
           {
             "type": "text",
             "text": {
-              "content": "혼란스럽고 무질서한 상황을 묘사할 때:",
+              "content": "정중하게 반대 의견을 낼 때:",
               "link": null
             },
             "annotations": {
@@ -274,13 +282,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "혼란스럽고 무질서한 상황을 묘사할 때:",
+            "plain_text": "정중하게 반대 의견을 낼 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+              "content": " 상대방의 생각이나 제안에 동의하지 않지만 부드럽게 표현하고 싶을 때 사용",
               "link": null
             },
             "annotations": {
@@ -291,7 +299,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+            "plain_text": " 상대방의 생각이나 제안에 동의하지 않지만 부드럽게 표현하고 싶을 때 사용",
             "href": null
           }
         ],
@@ -300,13 +308,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8030-ac11-fc39723b4804",
+          "id": "f4fd7ce2-3701-44bd-b3a7-13ea5527091d",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-801c-a969-c1f807c54f69"
+            "block_id": "f5517f71-d660-4e81-af05-04a3b4334e44"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:07:00.000Z",
+          "last_edited_time": "2026-01-03T11:09:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -324,7 +332,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"The office was ",
+                  "content": "\"I want to ",
                   "link": null
                 },
                 "annotations": {
@@ -335,13 +343,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"The office was ",
+                "plain_text": "\"I want to ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter",
+                  "content": "push back gently",
                   "link": null
                 },
                 "annotations": {
@@ -352,13 +360,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter",
+                "plain_text": "push back gently",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": " after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)",
+                  "content": " on that timeline.\" (그 일정에 대해 조심스럽게 이의를 제기하고 싶어요.)",
                   "link": null
                 },
                 "annotations": {
@@ -369,7 +377,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": " after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)",
+                "plain_text": " on that timeline.\" (그 일정에 대해 조심스럽게 이의를 제기하고 싶어요.)",
                 "href": null
               }
             ],
@@ -380,13 +388,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8090-ae47-ebb56649bb9b",
+      "id": "a11b7152-85f2-4887-befa-370f2c883921",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -404,7 +412,7 @@
           {
             "type": "text",
             "text": {
-              "content": "급하게 서두르는 모습을 표현할 때:",
+              "content": "건설적인 토론을 할 때:",
               "link": null
             },
             "annotations": {
@@ -415,13 +423,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "급하게 서두르는 모습을 표현할 때:",
+            "plain_text": "건설적인 토론을 할 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+              "content": " 대립이 아닌 협력적인 분위기에서 다른 관점을 제시할 때",
               "link": null
             },
             "annotations": {
@@ -432,7 +440,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+            "plain_text": " 대립이 아닌 협력적인 분위기에서 다른 관점을 제시할 때",
             "href": null
           }
         ],
@@ -441,13 +449,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8079-9b01-f28954eb86da",
+          "id": "afdbf809-11e6-40d2-b396-4483799657cf",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-8090-ae47-ebb56649bb9b"
+            "block_id": "a11b7152-85f2-4887-befa-370f2c883921"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:07:00.000Z",
+          "last_edited_time": "2026-01-03T11:09:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -465,7 +473,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"Everyone ran ",
+                  "content": "\"Can I ",
                   "link": null
                 },
                 "annotations": {
@@ -476,13 +484,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"Everyone ran ",
+                "plain_text": "\"Can I ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter ",
+                  "content": "push back gently",
                   "link": null
                 },
                 "annotations": {
@@ -493,13 +501,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter ",
+                "plain_text": "push back gently",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)",
+                  "content": "? I think we're missing something.\" (조심스럽게 반대 의견을 내도 될까요? 뭔가 놓친 것 같아요.)",
                   "link": null
                 },
                 "annotations": {
@@ -510,7 +518,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)",
+                "plain_text": "? I think we're missing something.\" (조심스럽게 반대 의견을 내도 될까요? 뭔가 놓친 것 같아요.)",
                 "href": null
               }
             ],
@@ -521,13 +529,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80d2-97c4-e434125a1df6",
+      "id": "a7d07c6b-df40-4fd3-9867-b43998096427",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -545,7 +553,7 @@
           {
             "type": "text",
             "text": {
-              "content": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+              "content": "상급자나 고객에게 의견을 낼 때:",
               "link": null
             },
             "annotations": {
@@ -556,13 +564,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+            "plain_text": "상급자나 고객에게 의견을 낼 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 체계나 순서 없이 일이 진행될 때",
+              "content": " 권위 있는 사람에게 존중하면서도 의견 차이를 표현할 때",
               "link": null
             },
             "annotations": {
@@ -573,7 +581,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 체계나 순서 없이 일이 진행될 때",
+            "plain_text": " 권위 있는 사람에게 존중하면서도 의견 차이를 표현할 때",
             "href": null
           }
         ],
@@ -582,13 +590,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8059-9dd6-f28c5bc54760",
+          "id": "1636bd6e-32dd-4c8b-a812-389c02b829c3",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-80d2-97c4-e434125a1df6"
+            "block_id": "a7d07c6b-df40-4fd3-9867-b43998096427"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:07:00.000Z",
+          "last_edited_time": "2026-01-03T11:09:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -606,7 +614,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"The meeting went ",
+                  "content": "\"I'd like to ",
                   "link": null
                 },
                 "annotations": {
@@ -617,13 +625,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"The meeting went ",
+                "plain_text": "\"I'd like to ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter",
+                  "content": "push back gently",
                   "link": null
                 },
                 "annotations": {
@@ -634,13 +642,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter",
+                "plain_text": "push back gently",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": " without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)",
+                  "content": " on that approach.\" (그 접근법에 대해 조심스럽게 다른 의견을 내고 싶어요.)",
                   "link": null
                 },
                 "annotations": {
@@ -651,7 +659,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": " without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)",
+                "plain_text": " on that approach.\" (그 접근법에 대해 조심스럽게 다른 의견을 내고 싶어요.)",
                 "href": null
               }
             ],
@@ -662,13 +670,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80e5-82f6-e85218fd850e",
+      "id": "010ca919-1b9c-4e75-b804-fb5545384e27",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -680,8 +688,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -707,13 +715,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8082-8181-ec8e520124b0",
+      "id": "256a7bf6-181a-4c7a-9fdd-9101ab59d802",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -731,7 +739,7 @@
           {
             "type": "text",
             "text": {
-              "content": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+              "content": "\"push back\"은 밀어내다, 저항하다는 뜻",
               "link": null
             },
             "annotations": {
@@ -742,13 +750,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+            "plain_text": "\"push back\"은 밀어내다, 저항하다는 뜻",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+              "content": "이지만, ",
               "link": null
             },
             "annotations": {
@@ -759,7 +767,41 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+            "plain_text": "이지만, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\"gently\"(부드럽게)를 붙이면",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"gently\"(부드럽게)를 붙이면",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 공격적이지 않고 정중하게 반대하는 태도가 됩니다. 부드럽게 밀어내는 모습을 상상하면 쉽게 기억할 수 있어요.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 공격적이지 않고 정중하게 반대하는 태도가 됩니다. 부드럽게 밀어내는 모습을 상상하면 쉽게 기억할 수 있어요.",
             "href": null
           }
         ],
@@ -768,13 +810,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80eb-95a6-e8d44ed79a1e",
+      "id": "a0d011a9-2289-4518-a3ea-98ba17cc9034",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -786,8 +828,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -813,13 +855,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80c5-9414-efab2f7f61c4",
+      "id": "e9fcb964-900c-45bd-927a-ac11a205ed04",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -837,7 +879,7 @@
           {
             "type": "text",
             "text": {
-              "content": "chaotic",
+              "content": "respectfully disagree",
               "link": null
             },
             "annotations": {
@@ -848,13 +890,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "chaotic",
+            "plain_text": "respectfully disagree",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 혼란스러운",
+              "content": " - 정중히 동의하지 않다",
               "link": null
             },
             "annotations": {
@@ -865,7 +907,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 혼란스러운",
+            "plain_text": " - 정중히 동의하지 않다",
             "href": null
           }
         ],
@@ -874,13 +916,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8063-b928-da9600c7775b",
+      "id": "8ea20a0e-bc59-4dd6-8fa0-3de49926e632",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -898,7 +940,7 @@
           {
             "type": "text",
             "text": {
-              "content": "in disarray",
+              "content": "offer a different perspective",
               "link": null
             },
             "annotations": {
@@ -909,13 +951,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "in disarray",
+            "plain_text": "offer a different perspective",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 무질서한",
+              "content": " - 다른 관점을 제시하다",
               "link": null
             },
             "annotations": {
@@ -926,7 +968,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 무질서한",
+            "plain_text": " - 다른 관점을 제시하다",
             "href": null
           }
         ],
@@ -935,13 +977,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8008-a98f-e6762f12819b",
+      "id": "60e065c3-5894-479d-a411-70a17d2abd4d",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -959,7 +1001,7 @@
           {
             "type": "text",
             "text": {
-              "content": "all over the place",
+              "content": "challenge politely",
               "link": null
             },
             "annotations": {
@@ -970,13 +1012,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "all over the place",
+            "plain_text": "challenge politely",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 정신없는, 정리되지 않은",
+              "content": " - 정중하게 이의를 제기하다",
               "link": null
             },
             "annotations": {
@@ -987,7 +1029,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 정신없는, 정리되지 않은",
+            "plain_text": " - 정중하게 이의를 제기하다",
             "href": null
           }
         ],
@@ -996,13 +1038,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80a5-a912-e2e43496d154",
+      "id": "14f22f90-8ec6-4b46-8630-8f8cb6c9a033",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -1020,7 +1062,7 @@
           {
             "type": "text",
             "text": {
-              "content": "topsy-turvy",
+              "content": "voice concerns diplomatically",
               "link": null
             },
             "annotations": {
@@ -1031,13 +1073,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "topsy-turvy",
+            "plain_text": "voice concerns diplomatically",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 뒤죽박죽인",
+              "content": " - 외교적으로 우려를 표명하다",
               "link": null
             },
             "annotations": {
@@ -1048,7 +1090,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 뒤죽박죽인",
+            "plain_text": " - 외교적으로 우려를 표명하다",
             "href": null
           }
         ],
@@ -1057,13 +1099,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-805a-a93b-fc2333fd829e",
+      "id": "fd00e3f0-bc8d-4922-83b8-f12420ddffb0",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-81e4-96cd-e0c3bffeeea4"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:07:00.000Z",
+      "last_edited_time": "2026-01-03T11:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -1081,7 +1123,7 @@
           {
             "type": "text",
             "text": {
-              "content": "in a frenzy",
+              "content": "question tactfully",
               "link": null
             },
             "annotations": {
@@ -1092,13 +1134,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "in a frenzy",
+            "plain_text": "question tactfully",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 광분하여, 난리가 난",
+              "content": " - 요령 있게 의문을 제기하다",
               "link": null
             },
             "annotations": {
@@ -1109,7 +1151,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 광분하여, 난리가 난",
+            "plain_text": " - 요령 있게 의문을 제기하다",
             "href": null
           }
         ],

@@ -1,47 +1,21 @@
 {
-  "word": "helter-skelter",
-  "title": "2. 우왕좌왕 / 뒤죽박죽 / 정신없음",
-  "example": "We’re all on the same project right now, so things are a little ______ ______.",
-  "example_translation": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+  "word": "warrants further review",
+  "title": "13. 추가 검토가 필요하다",
+  "example": "This issue ________ _______ _______.",
+  "example_translation": "이 이슈는 추가 검토가 필요해 보여요.",
   "targetDate": "2026-01-31",
-  "addedDate": "2026-01-03",
-  "body": "## helter-skelter\n\nWe’re all on the same project right now, so things are a little helter-skelter\n\n지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.\n\n## 💡 이 표현이 쓰이는 상황은?\n\n  - 혼란스럽고 무질서한 상황을 묘사할 때: 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용\n\n      - \"The office was helter-skelter after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)\n\n  - 급하게 서두르는 모습을 표현할 때: 사람들이 우왕좌왕하며 바쁘게 움직이는 상황\n\n      - \"Everyone ran helter-skelter when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)\n\n  - 계획 없이 무작위로 진행되는 일을 설명할 때: 체계나 순서 없이 일이 진행될 때\n\n      - \"The meeting went helter-skelter without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)\n\n## 🎯 외우기 쉬운 팁\n\n\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.\n\n## 📚 유사 표현\n\n  - chaotic - 혼란스러운\n\n  - in disarray - 무질서한\n\n  - all over the place - 정신없는, 정리되지 않은\n\n  - topsy-turvy - 뒤죽박죽인\n\n  - in a frenzy - 광분하여, 난리가 난",
+  "addedDate": "2026-01-14",
+  "body": "## warrants further review\n\nThis issue warrants further review.\n\n이 이슈는 추가 검토가 필요해 보여요.\n\n### 💡 이 표현이 쓰이는 상황은?\n\n  - 문제를 더 깊이 살펴봐야 할 때: 표면적으로 본 것 이상으로 자세히 검토할 필요가 있다고 판단할 때 사용\n\n      - \"The test results warrant further review before we proceed.\" (진행하기 전에 테스트 결과를 더 검토해야 해요.)\n\n  - 우려 사항을 공식적으로 제기할 때: 무언가가 추가 검토를 받을 만큼 중요하다고 강조할 때\n\n      - \"This customer complaint warrants further review by the team.\" (이 고객 불만은 팀에서 추가 검토할 가치가 있어요.)\n\n  - 의사결정을 보류하며 조사할 때: 결론을 내리기 전에 더 조사가 필요하다고 말할 때\n\n      - \"The proposal has merit but warrants further review.\" (제안은 가치가 있지만 추가 검토가 필요해요.)\n\n### 🎯 외우기 쉬운 팁\n\n\"warrant\"는 \"정당화하다, 보증하다\"라는 뜻입니다. 어떤 것이 추가 검토를 받을 만큼 충분히 중요하다는 의미예요. \"이 문제는 더 살펴볼 가치가 있다\"는 공식적인 표현으로 기억하세요.\n\n### 📚 유사 표현\n\n  - requires closer examination - 더 면밀한 조사가 필요하다\n\n  - deserves a second look - 재검토할 가치가 있다\n\n  - merits additional scrutiny - 추가 정밀 검토가 필요하다\n\n  - calls for deeper analysis - 더 깊은 분석이 요구된다\n\n  - needs more investigation - 더 많은 조사가 필요하다",
   "blocks": [
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8041-a4c6-dbd18604d075",
+      "id": "a8c84336-d274-44cd-9f29-451fac935acc",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
-      },
-      "has_children": false,
-      "archived": false,
-      "in_trash": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "2dd1fc05-de1e-80e8-85ed-c070363222f5",
-      "parent": {
-        "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
-      },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:09:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -59,7 +33,7 @@
           {
             "type": "text",
             "text": {
-              "content": "helter-skelter",
+              "content": "warrants further review",
               "link": null
             },
             "annotations": {
@@ -68,9 +42,9 @@
               "strikethrough": false,
               "underline": false,
               "code": false,
-              "color": "default"
+              "color": "red"
             },
-            "plain_text": "helter-skelter",
+            "plain_text": "warrants further review",
             "href": null
           }
         ],
@@ -80,13 +54,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80cd-9eed-ece52907ecc2",
+      "id": "b7e5e112-961c-4eaf-bc5c-f1db6c162a09",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T14:34:00.000Z",
-      "last_edited_time": "2026-01-03T14:34:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -104,7 +78,7 @@
           {
             "type": "text",
             "text": {
-              "content": "We’re all on the same project right now, so things are a little helter-skelter",
+              "content": "This issue ",
               "link": null
             },
             "annotations": {
@@ -115,7 +89,41 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "We’re all on the same project right now, so things are a little helter-skelter",
+            "plain_text": "This issue ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "warrants further review",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "red"
+            },
+            "plain_text": "warrants further review",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
             "href": null
           }
         ],
@@ -124,13 +132,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80a5-a894-ff498ce30ebf",
+      "id": "73ec6e37-5bdc-4120-89f9-8f230d54eba9",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -148,7 +156,7 @@
           {
             "type": "text",
             "text": {
-              "content": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+              "content": "이 이슈는 추가 검토가 필요해 보여요.",
               "link": null
             },
             "annotations": {
@@ -159,7 +167,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "지금 다 같이 같은 프로젝트를 하다 보니 좀 정신없어요.",
+            "plain_text": "이 이슈는 추가 검토가 필요해 보여요.",
             "href": null
           }
         ],
@@ -168,13 +176,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-809c-94a1-dd7b3f1c953f",
+      "id": "76657d4b-eb20-4337-85db-16884b77d2ce",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -194,13 +202,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-803c-95f0-f334947f11f0",
+      "id": "1d18479c-79e2-4dec-b76d-42ee84ac5c50",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -212,8 +220,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -239,13 +247,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-801c-a969-c1f807c54f69",
+      "id": "da84ba02-1799-47a3-bba2-9ded0cc419c7",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -263,7 +271,7 @@
           {
             "type": "text",
             "text": {
-              "content": "혼란스럽고 무질서한 상황을 묘사할 때:",
+              "content": "문제를 더 깊이 살펴봐야 할 때:",
               "link": null
             },
             "annotations": {
@@ -274,13 +282,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "혼란스럽고 무질서한 상황을 묘사할 때:",
+            "plain_text": "문제를 더 깊이 살펴봐야 할 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+              "content": " 표면적으로 본 것 이상으로 자세히 검토할 필요가 있다고 판단할 때 사용",
               "link": null
             },
             "annotations": {
@@ -291,7 +299,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 일이나 상황이 정리되지 않고 뒤죽박죽일 때 사용",
+            "plain_text": " 표면적으로 본 것 이상으로 자세히 검토할 필요가 있다고 판단할 때 사용",
             "href": null
           }
         ],
@@ -300,13 +308,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8030-ac11-fc39723b4804",
+          "id": "513e0797-18c9-452e-875a-df5b6d30ad14",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-801c-a969-c1f807c54f69"
+            "block_id": "da84ba02-1799-47a3-bba2-9ded0cc419c7"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:05:00.000Z",
+          "last_edited_time": "2026-01-03T11:07:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -324,7 +332,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"The office was ",
+                  "content": "\"The test results ",
                   "link": null
                 },
                 "annotations": {
@@ -335,13 +343,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"The office was ",
+                "plain_text": "\"The test results ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter",
+                  "content": "warrant further review",
                   "link": null
                 },
                 "annotations": {
@@ -352,13 +360,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter",
+                "plain_text": "warrant further review",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": " after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)",
+                  "content": " before we proceed.\" (진행하기 전에 테스트 결과를 더 검토해야 해요.)",
                   "link": null
                 },
                 "annotations": {
@@ -369,7 +377,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": " after the sudden announcement.\" (갑작스러운 발표 후 사무실이 난리였어요.)",
+                "plain_text": " before we proceed.\" (진행하기 전에 테스트 결과를 더 검토해야 해요.)",
                 "href": null
               }
             ],
@@ -380,13 +388,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8090-ae47-ebb56649bb9b",
+      "id": "fa19c147-5cea-45a1-916b-3bbf83d31485",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -404,7 +412,7 @@
           {
             "type": "text",
             "text": {
-              "content": "급하게 서두르는 모습을 표현할 때:",
+              "content": "우려 사항을 공식적으로 제기할 때:",
               "link": null
             },
             "annotations": {
@@ -415,13 +423,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "급하게 서두르는 모습을 표현할 때:",
+            "plain_text": "우려 사항을 공식적으로 제기할 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+              "content": " 무언가가 추가 검토를 받을 만큼 중요하다고 강조할 때",
               "link": null
             },
             "annotations": {
@@ -432,7 +440,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 사람들이 우왕좌왕하며 바쁘게 움직이는 상황",
+            "plain_text": " 무언가가 추가 검토를 받을 만큼 중요하다고 강조할 때",
             "href": null
           }
         ],
@@ -441,13 +449,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8079-9b01-f28954eb86da",
+          "id": "a0e91778-bc10-4fb1-85c1-ceb4923e4c8d",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-8090-ae47-ebb56649bb9b"
+            "block_id": "fa19c147-5cea-45a1-916b-3bbf83d31485"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:05:00.000Z",
+          "last_edited_time": "2026-01-03T11:07:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -465,7 +473,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"Everyone ran ",
+                  "content": "\"This customer complaint ",
                   "link": null
                 },
                 "annotations": {
@@ -476,13 +484,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"Everyone ran ",
+                "plain_text": "\"This customer complaint ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter ",
+                  "content": "warrants further review",
                   "link": null
                 },
                 "annotations": {
@@ -493,13 +501,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter ",
+                "plain_text": "warrants further review",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)",
+                  "content": " by the team.\" (이 고객 불만은 팀에서 추가 검토할 가치가 있어요.)",
                   "link": null
                 },
                 "annotations": {
@@ -510,7 +518,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "when the fire alarm went off.\" (화재 경보가 울리자 모두 허둥지둥 뛰어다녔어요.)",
+                "plain_text": " by the team.\" (이 고객 불만은 팀에서 추가 검토할 가치가 있어요.)",
                 "href": null
               }
             ],
@@ -521,13 +529,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80d2-97c4-e434125a1df6",
+      "id": "1a049620-be60-4329-a2dd-ccc7dec762d1",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -545,7 +553,7 @@
           {
             "type": "text",
             "text": {
-              "content": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+              "content": "의사결정을 보류하며 조사할 때:",
               "link": null
             },
             "annotations": {
@@ -556,13 +564,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "계획 없이 무작위로 진행되는 일을 설명할 때:",
+            "plain_text": "의사결정을 보류하며 조사할 때:",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " 체계나 순서 없이 일이 진행될 때",
+              "content": " 결론을 내리기 전에 더 조사가 필요하다고 말할 때",
               "link": null
             },
             "annotations": {
@@ -573,7 +581,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " 체계나 순서 없이 일이 진행될 때",
+            "plain_text": " 결론을 내리기 전에 더 조사가 필요하다고 말할 때",
             "href": null
           }
         ],
@@ -582,13 +590,13 @@
       "children": [
         {
           "object": "block",
-          "id": "2dd1fc05-de1e-8059-9dd6-f28c5bc54760",
+          "id": "a70af90c-e368-4e75-81e3-ee9e993d8127",
           "parent": {
             "type": "block_id",
-            "block_id": "2dd1fc05-de1e-80d2-97c4-e434125a1df6"
+            "block_id": "1a049620-be60-4329-a2dd-ccc7dec762d1"
           },
-          "created_time": "2026-01-03T04:05:00.000Z",
-          "last_edited_time": "2026-01-03T04:05:00.000Z",
+          "created_time": "2026-01-03T11:05:00.000Z",
+          "last_edited_time": "2026-01-03T11:07:00.000Z",
           "created_by": {
             "object": "user",
             "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -606,7 +614,7 @@
               {
                 "type": "text",
                 "text": {
-                  "content": "\"The meeting went ",
+                  "content": "\"The proposal has merit but ",
                   "link": null
                 },
                 "annotations": {
@@ -617,13 +625,13 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": "\"The meeting went ",
+                "plain_text": "\"The proposal has merit but ",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": "helter-skelter",
+                  "content": "warrants further review",
                   "link": null
                 },
                 "annotations": {
@@ -634,13 +642,13 @@
                   "code": false,
                   "color": "red"
                 },
-                "plain_text": "helter-skelter",
+                "plain_text": "warrants further review",
                 "href": null
               },
               {
                 "type": "text",
                 "text": {
-                  "content": " without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)",
+                  "content": ".\" (제안은 가치가 있지만 추가 검토가 필요해요.)",
                   "link": null
                 },
                 "annotations": {
@@ -651,7 +659,7 @@
                   "code": false,
                   "color": "default"
                 },
-                "plain_text": " without a clear agenda.\" (명확한 안건 없이 회의가 정신없이 진행됐어요.)",
+                "plain_text": ".\" (제안은 가치가 있지만 추가 검토가 필요해요.)",
                 "href": null
               }
             ],
@@ -662,13 +670,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80e5-82f6-e85218fd850e",
+      "id": "7b2a88a1-407e-4cf9-bc32-bd2da3766e29",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -680,8 +688,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -707,13 +715,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8082-8181-ec8e520124b0",
+      "id": "5a7bf782-363e-4a2c-ae51-635c5b6eccd9",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -731,7 +739,7 @@
           {
             "type": "text",
             "text": {
-              "content": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+              "content": "\"warrant\"는 \"정당화하다, 보증하다\"라는 뜻",
               "link": null
             },
             "annotations": {
@@ -742,13 +750,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "\"헬터-스켈터\"라는 소리 자체가 급하고 정신없는 느낌",
+            "plain_text": "\"warrant\"는 \"정당화하다, 보증하다\"라는 뜻",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+              "content": "입니다. 어떤 것이 추가 검토를 받을 만큼 충분히 중요하다는 의미예요. \"이 문제는 더 살펴볼 가치가 있다\"는 공식적인 표현으로 기억하세요.",
               "link": null
             },
             "annotations": {
@@ -759,7 +767,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "을 줍니다! 발음할 때 빠르게 말하면 마치 우왕좌왕하는 모습이 연상돼요. 또한 영국에서는 놀이공원의 나선형 미끄럼틀을 \"helter-skelter\"라고 부르는데, 이 미끄럼틀을 타고 빙글빙글 정신없이 내려가는 모습을 떠올리면 쉽게 기억할 수 있어요.",
+            "plain_text": "입니다. 어떤 것이 추가 검토를 받을 만큼 충분히 중요하다는 의미예요. \"이 문제는 더 살펴볼 가치가 있다\"는 공식적인 표현으로 기억하세요.",
             "href": null
           }
         ],
@@ -768,13 +776,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80eb-95a6-e8d44ed79a1e",
+      "id": "253ed452-2cd5-451d-9a2b-bd0e81090ce3",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -786,8 +794,8 @@
       "has_children": false,
       "archived": false,
       "in_trash": false,
-      "type": "heading_2",
-      "heading_2": {
+      "type": "heading_3",
+      "heading_3": {
         "rich_text": [
           {
             "type": "text",
@@ -813,13 +821,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80c5-9414-efab2f7f61c4",
+      "id": "3dd6e333-8662-4909-bc38-c76dbe46542c",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -837,7 +845,7 @@
           {
             "type": "text",
             "text": {
-              "content": "chaotic",
+              "content": "requires closer examination",
               "link": null
             },
             "annotations": {
@@ -848,13 +856,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "chaotic",
+            "plain_text": "requires closer examination",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 혼란스러운",
+              "content": " - 더 면밀한 조사가 필요하다",
               "link": null
             },
             "annotations": {
@@ -865,7 +873,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 혼란스러운",
+            "plain_text": " - 더 면밀한 조사가 필요하다",
             "href": null
           }
         ],
@@ -874,13 +882,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8063-b928-da9600c7775b",
+      "id": "a0a0ce30-f081-4974-8a3d-138d5a24e8d6",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -898,7 +906,7 @@
           {
             "type": "text",
             "text": {
-              "content": "in disarray",
+              "content": "deserves a second look",
               "link": null
             },
             "annotations": {
@@ -909,13 +917,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "in disarray",
+            "plain_text": "deserves a second look",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 무질서한",
+              "content": " - 재검토할 가치가 있다",
               "link": null
             },
             "annotations": {
@@ -926,7 +934,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 무질서한",
+            "plain_text": " - 재검토할 가치가 있다",
             "href": null
           }
         ],
@@ -935,13 +943,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-8008-a98f-e6762f12819b",
+      "id": "605c934b-3041-4056-9fb7-3881dc42f724",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -959,7 +967,7 @@
           {
             "type": "text",
             "text": {
-              "content": "all over the place",
+              "content": "merits additional scrutiny",
               "link": null
             },
             "annotations": {
@@ -970,13 +978,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "all over the place",
+            "plain_text": "merits additional scrutiny",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 정신없는, 정리되지 않은",
+              "content": " - 추가 정밀 검토가 필요하다",
               "link": null
             },
             "annotations": {
@@ -987,7 +995,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 정신없는, 정리되지 않은",
+            "plain_text": " - 추가 정밀 검토가 필요하다",
             "href": null
           }
         ],
@@ -996,13 +1004,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-80a5-a912-e2e43496d154",
+      "id": "ae980e20-4c6b-4a5d-bc15-e097ee4fbb23",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -1020,7 +1028,7 @@
           {
             "type": "text",
             "text": {
-              "content": "topsy-turvy",
+              "content": "calls for deeper analysis",
               "link": null
             },
             "annotations": {
@@ -1031,13 +1039,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "topsy-turvy",
+            "plain_text": "calls for deeper analysis",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 뒤죽박죽인",
+              "content": " - 더 깊은 분석이 요구된다",
               "link": null
             },
             "annotations": {
@@ -1048,7 +1056,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 뒤죽박죽인",
+            "plain_text": " - 더 깊은 분석이 요구된다",
             "href": null
           }
         ],
@@ -1057,13 +1065,13 @@
     },
     {
       "object": "block",
-      "id": "2dd1fc05-de1e-805a-a93b-fc2333fd829e",
+      "id": "1e2c3ef3-6909-4fb7-9250-5e309d7e1c3f",
       "parent": {
         "type": "page_id",
-        "page_id": "2dd1fc05-de1e-8002-884d-c094fdd2e615"
+        "page_id": "2dd1fc05-de1e-8118-979b-c0972ed29c9c"
       },
-      "created_time": "2026-01-03T04:05:00.000Z",
-      "last_edited_time": "2026-01-03T04:05:00.000Z",
+      "created_time": "2026-01-03T11:05:00.000Z",
+      "last_edited_time": "2026-01-03T11:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "05208246-fd56-4f67-8e91-7e8812c5cc1c"
@@ -1081,7 +1089,7 @@
           {
             "type": "text",
             "text": {
-              "content": "in a frenzy",
+              "content": "needs more investigation",
               "link": null
             },
             "annotations": {
@@ -1092,13 +1100,13 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "in a frenzy",
+            "plain_text": "needs more investigation",
             "href": null
           },
           {
             "type": "text",
             "text": {
-              "content": " - 광분하여, 난리가 난",
+              "content": " - 더 많은 조사가 필요하다",
               "link": null
             },
             "annotations": {
@@ -1109,7 +1117,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": " - 광분하여, 난리가 난",
+            "plain_text": " - 더 많은 조사가 필요하다",
             "href": null
           }
         ],

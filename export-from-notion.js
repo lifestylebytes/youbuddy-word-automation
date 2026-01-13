@@ -46,8 +46,17 @@ async function fetchAllBlocks(pageId) {
     });
 
     const data = await res.json();
+    const results = data.results || [];
 
-    blocks.push(...(data.results || []));
+    for (const block of results) {
+      if (block.has_children) {
+        const children = await fetchAllBlocks(block.id);
+        if (children.length) {
+          block.children = children;
+        }
+      }
+      blocks.push(block);
+    }
 
     if (!data.has_more) break;
     cursor = data.next_cursor;
@@ -113,6 +122,25 @@ function blockToMarkdown(block, indent = 0) {
   }
 }
 
+function blocksToMarkdown(blocks = [], indent = 0) {
+  const parts = [];
+
+  for (const block of blocks) {
+    const isList = block.type.includes("list");
+    const blockIndent = isList ? indent + 1 : indent;
+    const md = blockToMarkdown(block, blockIndent);
+    if (md) parts.push(md);
+
+    if (block.children && block.children.length) {
+      const childIndent = isList ? blockIndent + 1 : blockIndent;
+      const childMd = blocksToMarkdown(block.children, childIndent);
+      if (childMd) parts.push(childMd);
+    }
+  }
+
+  return parts.join("\n\n");
+}
+
 async function run() {
   const res = await fetch(
     `https://api.notion.com/v1/databases/${SOURCE_DB_ID}/query`,
@@ -162,10 +190,7 @@ async function run() {
 
     const blocks = await fetchAllBlocks(page.id);
 
-    const body = blocks
-      .map(b => blockToMarkdown(b, b.type.includes("list") ? 1 : 0))
-      .filter(Boolean)
-      .join("\n\n");
+    const body = blocksToMarkdown(blocks);
 
     console.log(`📦 export: ${vocab} | blocks: ${blocks.length}`);
 
