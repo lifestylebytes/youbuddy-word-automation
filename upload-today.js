@@ -141,28 +141,21 @@ async function run() {
     const pageUrl = await createPage(data);
 
     // 2️⃣ 메일 전송
+    const dayLabel = getDayLabel(data);
     await sendMail({
-  subject: `📘 오늘의 단어: ${data.word}`,
-  text: `
+      subject: `📘 오늘의 단어: ${data.word}`,
+      text: `
 안녕하세요! 😊
 오늘의 단어가 추가되었습니다 👏
 
-Day ${data.day || ""}
-${data.word}
+${dayLabel ? `${dayLabel}\n` : ""}${data.word}
+${data.example_translation || ""}
+
 ${data.example || ""}
 
-👉 노션에서 바로 보기
 ${pageUrl}
-
-🔗 인증 현황 보기
-https://www.notion.so/2db1fc05de1e8048825dc700e2d6d457?source=copy_link
-
-
-
-
-— YouBuddy 자동 단어 시스템 📘
-  `.trim()
-});
+      `.trim()
+    });
 
 
     // 3️⃣ published 처리
@@ -177,3 +170,11 @@ run().catch(err => {
   console.error("❌ 업로드 실패:", err);
   process.exit(1);
 });
+
+function getDayLabel(data) {
+  if (data.day) return `Day ${data.day}`;
+  const title = data.title || "";
+  const match = title.match(/^\s*(\d+)\./);
+  if (match) return `Day ${match[1]}`;
+  return "";
+}
