@@ -11,6 +11,7 @@ const fetch =
 
 const NOTION_SECRET = process.env.NOTION_SECRET;
 const TARGET_DB_ID = process.env.TARGET_DB_ID;
+const TARGET_DATA_SOURCE_ID = process.env.TARGET_DATA_SOURCE_ID;
 const NOTION_VERSION = "2025-09-03";
 
 /**
@@ -31,6 +32,9 @@ function todayKST() {
 async function createPage(word) {
   console.log("ℹ️ Notion-Version:", NOTION_VERSION);
   console.log("ℹ️ TARGET_DB_ID:", TARGET_DB_ID);
+  if (TARGET_DATA_SOURCE_ID) {
+    console.log("ℹ️ TARGET_DATA_SOURCE_ID:", TARGET_DATA_SOURCE_ID);
+  }
   const children = (word.blocks || [])
     .slice(0, 100)
     .map(sanitizeBlock)
@@ -73,7 +77,9 @@ async function createPage(word) {
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      parent: { database_id: TARGET_DB_ID },
+      parent: TARGET_DATA_SOURCE_ID
+        ? { data_source_id: TARGET_DATA_SOURCE_ID }
+        : { database_id: TARGET_DB_ID },
       properties,
       children
     })
