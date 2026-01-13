@@ -29,6 +29,8 @@ function todayKST() {
  * 🔹 노션 페이지 생성 (blocks 그대로 재사용)
  */
 async function createPage(word) {
+  console.log("ℹ️ Notion-Version:", NOTION_VERSION);
+  console.log("ℹ️ TARGET_DB_ID:", TARGET_DB_ID);
   const children = (word.blocks || [])
     .slice(0, 100)
     .map(sanitizeBlock)
