@@ -29,7 +29,10 @@ function todayKST() {
  * 🔹 노션 페이지 생성 (blocks 그대로 재사용)
  */
 async function createPage(word) {
-  const children = (word.blocks || []).slice(0, 100);
+  const children = (word.blocks || [])
+    .slice(0, 100)
+    .map(sanitizeBlock)
+    .filter(Boolean);
 
   const properties = {
     "뜻 (클릭하면 설명)": {
@@ -83,6 +86,28 @@ async function createPage(word) {
 
   // ✅ 이 URL을 메일 / 로그 / 디버깅에 사용
   return result.url;
+}
+
+function sanitizeBlock(block) {
+  if (!block || !block.type) return null;
+
+  const type = block.type;
+  const content = block[type] || {};
+  const cleaned = { object: "block", type };
+  const cleanedContent = { ...content };
+
+  if (
+    block.children &&
+    block.children.length &&
+    (type === "bulleted_list_item" || type === "numbered_list_item")
+  ) {
+    cleanedContent.children = block.children
+      .map(sanitizeBlock)
+      .filter(Boolean);
+  }
+
+  cleaned[type] = cleanedContent;
+  return cleaned;
 }
 
 /**
