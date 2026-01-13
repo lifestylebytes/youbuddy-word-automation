@@ -12,6 +12,22 @@ const SOURCE_DB_ID = process.env.SOURCE_DB_ID;
 const NOTION_SECRET = process.env.NOTION_SECRET;
 const NOTION_VERSION = "2022-06-28";
 
+async function fetchJsonOrLog(res, context) {
+  const contentType = res.headers.get("content-type") || "";
+  const bodyText = await res.text();
+
+  if (!res.ok || !contentType.includes("application/json")) {
+    const snippet = bodyText.slice(0, 500);
+    console.error(`❌ Notion API 응답 오류 (${context})`);
+    console.error(`status: ${res.status} ${res.statusText}`);
+    console.error(`content-type: ${contentType || "(없음)"}`);
+    console.error(`body(500자): ${snippet}`);
+    throw new Error("Notion API returned non-JSON or error status");
+  }
+
+  return JSON.parse(bodyText);
+}
+
 /**
  * 🇰🇷 KST 기준 오늘 날짜
  */
@@ -45,7 +61,7 @@ async function fetchAllBlocks(pageId) {
       }
     });
 
-    const data = await res.json();
+    const data = await fetchJsonOrLog(res, `blocks children: ${pageId}`);
     const results = data.results || [];
 
     for (const block of results) {
@@ -157,7 +173,7 @@ async function run() {
     }
   );
 
-  const data = await res.json();
+  const data = await fetchJsonOrLog(res, `database query: ${SOURCE_DB_ID}`);
   const dir = path.join(__dirname, "words");
 
   if (!fs.existsSync(dir)) fs.mkdirSync(dir);
