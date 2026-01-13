@@ -10,7 +10,7 @@ const fetch =
 
 const SOURCE_DB_ID = process.env.SOURCE_DB_ID;
 const NOTION_SECRET = process.env.NOTION_SECRET;
-const NOTION_VERSION = "2022-06-28";
+const NOTION_VERSION = "2025-09-03";
 
 async function fetchJsonOrLog(res, context) {
   const contentType = res.headers.get("content-type") || "";
